@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @sherin-anits
 - 👀 I’m interested in Networks
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently a B.E.CSE Student
+- 📫 How to reach me : anitsmaxwel@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun pun: Why did the network administrator cross the road?
+      To get to the other side of the firewall!
+
+ 
 
 <!---
 sherin-anits/sherin-anits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
