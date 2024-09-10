@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sherin-anits
-- 👀 I love working with Java!
+- 👀 I love working with C++!
 - 🌱 I’m currently a B.E.CSE Student
 - 📫 How to reach me : anitsmaxwel@gmail.com
 - 😄 Pronouns: She/Her
